@@ -1,0 +1,21 @@
+# Node related
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# NestJS specific
+dist/
+
+# Environment configurations
+.env
+.env.*.local
+
+# IDE - Visual Studio Code
+.vscode/
+
+# IDE - WebStorm/IntelliJ
+.idea/
+
+# Operating System
+.DS_Store # macOS
+Thumbs.db # Windows
